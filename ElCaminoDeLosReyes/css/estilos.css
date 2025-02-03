@@ -1,0 +1,27 @@
+*{
+    margin: auto;
+}
+header{
+    background-color: aqua;
+    padding: 25px;
+    text-align: center;
+    border-style:groove;
+}
+body{
+    background-color: antiquewhite;
+}
+main{
+    max-width: 900px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+    padding: 25px;
+    border-style:outset;
+    border-radius: 7px;
+    background-color: aliceblue;
+}
+article{
+    border-style: inset;
+    border-radius: 5px;
+    padding: 25px;
+}
